@@ -11,7 +11,7 @@ Enable Synology M.2 PCIe cards in Synology NAS that don't officially support the
   - Enables M2D18 and M2D17 for RS822RP+, RS822+, RS1221RP+ and RS1221+ using DSM 7.1.1 and older.
   - May enable E10M20-T1, M2D20, M2D18 and M2D17 for other models with a PCIe x8 slot that have /usr/syno/synonvme.
 
-[Synology HDD db](https://github.com/007revad/Synology_HDD_db) теперь позволяет использовать Storage Manager для создания томов на дисках M.2 на карте адаптера PCIe M.2.
+[Synology HDD db](https://github.com/ZwiReKsyno/Synology_HDD_SATA_NVMe) теперь позволяет использовать Storage Manager для создания томов на дисках M.2 на карте адаптера PCIe M.2.
 
 <br>
 
